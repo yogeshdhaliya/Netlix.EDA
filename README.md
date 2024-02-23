@@ -4,4 +4,4 @@ Netflix! What started in 1997 as a DVD rental service has since exploded into th
 
 # Problem Statment
 
-Are we certain that movies are getting shorter?
+Are we certain that movies are getting shorter over the period of time?
